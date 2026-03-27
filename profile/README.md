@@ -1,7 +1,7 @@
 # Yuxino Labs
 
 <p align="center">
-  <strong>Products, tools, and infrastructure built with a bias toward shipping.</strong>
+  <strong>产品、工具与基础设施的统一工作区。</strong>
 </p>
 
 <p align="center">
@@ -18,52 +18,55 @@
 
 ---
 
-## What We Build
+## 我们在做什么
 
-Yuxino Labs is the home for our product repos, internal tooling, frontend systems, backend services, and release infrastructure.
+Yuxino Labs 用来集中管理我们的产品仓库、后端服务、内部工具和发布基础设施。
 
-We like small teams, fast feedback loops, boring foundations, and interfaces that feel intentional.
+我们偏爱小团队、快速反馈、可维护的基础设施，以及真正顺手的内部工具。
 
-## Current Stack
+## 前端项目
 
-- Frontend apps with modern web tooling
-- Backend services that sit close to product needs
-- Release and deployment infrastructure we can actually operate ourselves
-- Shared templates for moving faster without cloning chaos
-
-## Active Projects
-
-| Project | Role |
+| 项目 | 说明 |
 | --- | --- |
-| [`meow`](https://github.com/yuxino-labs/meow) | Release control console |
-| [`meow-api`](https://github.com/yuxino-labs/meow-api) | Release runtime and management API |
-| [`comet`](https://github.com/yuxino-labs/comet) | Product app |
-| [`comet-api`](https://github.com/yuxino-labs/comet-api) | Backend service for comet |
-| [`yomi`](https://github.com/yuxino-labs/yomi) | Product app |
-| [`yomi-api`](https://github.com/yuxino-labs/yomi-api) | Backend service for yomi |
-| [`paw`](https://github.com/yuxino-labs/paw) | Product app |
-| [`paw-api`](https://github.com/yuxino-labs/paw-api) | Backend service for paw |
-| [`nichijou`](https://github.com/yuxino-labs/nichijou) | Product app |
-| [`nichijou-api`](https://github.com/yuxino-labs/nichijou-api) | Backend service for nichijou |
-| [`ashita`](https://github.com/yuxino-labs/ashita) | Product app |
-| [`auth`](https://github.com/yuxino-labs/auth) | Access gate and verification UI |
-| [`home`](https://github.com/yuxino-labs/home) | Home surface |
-| [`index`](https://github.com/yuxino-labs/index) | Entry surface |
+| [`meow`](https://github.com/yuxino-labs/meow) | 发布控制台 |
+| [`comet`](https://github.com/yuxino-labs/comet) | 产品前端 |
+| [`yomi`](https://github.com/yuxino-labs/yomi) | 产品前端 |
+| [`paw`](https://github.com/yuxino-labs/paw) | 产品前端 |
+| [`nichijou`](https://github.com/yuxino-labs/nichijou) | 产品前端 |
+| [`ashita`](https://github.com/yuxino-labs/ashita) | 产品前端 |
+| [`auth`](https://github.com/yuxino-labs/auth) | 鉴权页与访问入口 |
+| [`home`](https://github.com/yuxino-labs/home) | 首页或主入口页面 |
+| [`index`](https://github.com/yuxino-labs/index) | 入口页 |
 
-## Templates
+## 后端项目
 
-- [`web-template`](https://github.com/yuxino-labs/web-template)
-- [`server-template`](https://github.com/yuxino-labs/server-template)
+| 项目 | 说明 |
+| --- | --- |
+| [`meow-api`](https://github.com/yuxino-labs/meow-api) | 发布运行时与管理 API |
+| [`comet-api`](https://github.com/yuxino-labs/comet-api) | comet 后端服务 |
+| [`yomi-api`](https://github.com/yuxino-labs/yomi-api) | yomi 后端服务 |
+| [`paw-api`](https://github.com/yuxino-labs/paw-api) | paw 后端服务 |
+| [`nichijou-api`](https://github.com/yuxino-labs/nichijou-api) | nichijou 后端服务 |
+| [`x-server`](https://github.com/yuxino-labs/x-server) | 通用服务端项目 |
 
-## Principles
+## 模板与基础设施
 
-- Ship first, polish continuously
-- Keep release paths visible
-- Prefer systems we can explain and maintain
-- Make internal tools good enough that we actually want to use them
+| 项目 | 说明 |
+| --- | --- |
+| [`web-template`](https://github.com/yuxino-labs/web-template) | 前端项目模板 |
+| [`server-template`](https://github.com/yuxino-labs/server-template) | 服务端项目模板 |
+| [`404`](https://github.com/yuxino-labs/404) | 通用 404 页面 |
+| [`x`](https://github.com/yuxino-labs/x) | 实验或通用项目 |
+
+## 一些偏好
+
+- 先跑通，再持续打磨
+- 发布链路尽量可见、可控
+- 系统要能解释清楚，也要能自己维护
+- 内部工具不是摆设，要做到团队愿意天天用
 
 ---
 
 <p align="center">
-  Built in public enough to stay honest, private enough to keep moving.
+  做能上线、能维护、也能继续长出来的东西。
 </p>
