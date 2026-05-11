@@ -14,6 +14,8 @@
   <a href="https://github.com/yuxino-labs/paw">paw</a>
   ·
   <a href="https://github.com/yuxino-labs/nichijou">nichijou</a>
+  ·
+  <a href="https://github.com/yuxino-labs/ele">ele</a>
 </p>
 
 ---
@@ -50,6 +52,7 @@ Yuxino Labs 用来集中管理产品仓库、后端服务、内部工具，以�
 | [`paw`](https://github.com/yuxino-labs/paw) | 产品前端 |
 | [`nichijou`](https://github.com/yuxino-labs/nichijou) | 产品前端 |
 | [`ashita`](https://github.com/yuxino-labs/ashita) | 产品前端 |
+| [`ele`](https://github.com/yuxino-labs/ele) | 产品前端 |
 | [`auth`](https://github.com/yuxino-labs/auth) | 鉴权页与访问入口 |
 | [`home`](https://github.com/yuxino-labs/home) | 首页或主入口页面 |
 | [`index`](https://github.com/yuxino-labs/index) | 入口页 |
@@ -63,6 +66,7 @@ Yuxino Labs 用来集中管理产品仓库、后端服务、内部工具，以�
 | [`yomi-api`](https://github.com/yuxino-labs/yomi-api) | yomi 后端服务 |
 | [`paw-api`](https://github.com/yuxino-labs/paw-api) | paw 后端服务 |
 | [`nichijou-api`](https://github.com/yuxino-labs/nichijou-api) | nichijou 后端服务 |
+| [`ele-api`](https://github.com/yuxino-labs/ele-api) | ele 后端服务 |
 | [`x-server`](https://github.com/yuxino-labs/x-server) | 通用服务端项目 |
 
 ## 模板与基础设施
@@ -73,6 +77,7 @@ Yuxino Labs 用来集中管理产品仓库、后端服务、内部工具，以�
 | [`meow-bootstrap`](https://github.com/yuxino-labs/meow-bootstrap) | 新项目初始化与接入器 |
 | [`web-template`](https://github.com/yuxino-labs/web-template) | 前端项目模板 |
 | [`server-template`](https://github.com/yuxino-labs/server-template) | 服务端项目模板 |
+| [`web-shared`](https://github.com/yuxino-labs/web-shared) | 跨前端项目共享的组件与 hooks（角色选择、跨子域 cookie 等） |
 | [`404`](https://github.com/yuxino-labs/404) | 通用 404 页面 |
 | [`x`](https://github.com/yuxino-labs/x) | 实验或通用项目 |
 
