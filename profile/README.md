@@ -53,6 +53,7 @@ Yuxino Labs 用来集中管理产品仓库、后端服务、内部工具，以�
 | [`nichijou`](https://github.com/yuxino-labs/nichijou) | 产品前端 |
 | [`ashita`](https://github.com/yuxino-labs/ashita) | 产品前端 |
 | [`ele`](https://github.com/yuxino-labs/ele) | 产品前端 |
+| [`miru`](https://github.com/yuxino-labs/miru) | 摄像头视觉识别与物体归类 |
 | [`auth`](https://github.com/yuxino-labs/auth) | 鉴权页与访问入口 |
 | [`home`](https://github.com/yuxino-labs/home) | 首页或主入口页面 |
 | [`index`](https://github.com/yuxino-labs/index) | 入口页 |
